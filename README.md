@@ -2,8 +2,12 @@
 
 ## Setup
 ```
+git clone https://github.com/daisankalaeral/yolo_lama
+cd yolo_lama
+
 pip install ultralytics
 pip install gradio
+
 git clone https://github.com/geomagical/lama-with-refiner
 pip install -r lama-with-refiner/requirements.txt
 ```
